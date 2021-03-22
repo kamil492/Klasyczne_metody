@@ -2,7 +2,7 @@
 """
 Created on Tue Mar  9 10:17:43 2021
 
-@author: 01111585
+@author: Kamil Kowalczyk
 """
 import os
 import pickle
