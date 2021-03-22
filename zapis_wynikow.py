@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 17 11:55:38 2021
 
-@author: 01111585
+@author: Kamil Kowalczyk
 """
 
 from scipy.spatial import distance
