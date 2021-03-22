@@ -2,7 +2,7 @@
 """
 Created on Tue Mar  9 11:08:49 2021
 
-@author: 01111585
+@author: Kamil Kowalczyk
 """
 
 import progressbar
