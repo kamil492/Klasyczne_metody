@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  8 15:50:12 2021
 
-@author: 01111585
+@author: Kamil Kowalczyk
 """
 import progressbar
 import numpy as np 
