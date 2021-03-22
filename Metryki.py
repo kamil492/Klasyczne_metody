@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  8 16:58:06 2021
 
-@author: 01111585
+@author: Kamil Kowalczyk
 """
 import pickle
 import numpy as np
