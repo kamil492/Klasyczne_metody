@@ -29,7 +29,7 @@ for image in (img_list):
     #zamiana danych z binarnych na postac cyfrowa
     regions = np.digitize(image, bins=thresholds)
     
-    # konwersja 64bit na 8 bti z normalizacja etc
+    # konwersja 64bit na 8 bit z normalizacja etc
     img_n = cv2.normalize(src=regions, dst=None, alpha=0, beta=255, norm_type=cv2.NORM_MINMAX, dtype=cv2.CV_8U)
     
     output = img_n.astype(np.uint8)
